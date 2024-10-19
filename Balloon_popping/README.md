@@ -1,4 +1,4 @@
-# 2D Counting Game
+# Balloon Popping
 
 A simple counting game with music, effects, sound and balloons. You just to burst the balloons before they go above screen and increase your score.
 
